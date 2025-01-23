@@ -1,0 +1,6 @@
+.venv
+.idea
+fyp robot.v3i.yolov8
+data_svr
+best.pt
+
